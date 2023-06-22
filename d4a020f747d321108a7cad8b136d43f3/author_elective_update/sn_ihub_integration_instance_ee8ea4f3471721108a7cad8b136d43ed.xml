@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance">
+    <sn_ihub_integration_instance action="DELETE">
+        <description>Import To Do items from xls</description>
+        <integration_table>sys_data_source</integration_table>
+        <integration_type>data_import</integration_type>
+        <internal_name/>
+        <name>ToDoImport</name>
+        <record_id>a28ea4f3471721108a7cad8b136d43ef</record_id>
+        <sys_class_name>sn_ihub_integration_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-14 20:29:58</sys_created_on>
+        <sys_id>ee8ea4f3471721108a7cad8b136d43ed</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ToDoImport</sys_name>
+        <sys_package display_value="To Do" source="x_1050762_to_do">d4a020f747d321108a7cad8b136d43f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">d4a020f747d321108a7cad8b136d43f3</sys_scope>
+        <sys_update_name>sn_ihub_integration_instance_ee8ea4f3471721108a7cad8b136d43ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-14 20:29:59</sys_updated_on>
+    </sn_ihub_integration_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">d4a020f747d321108a7cad8b136d43f3</application>
+        <file_path/>
+        <instance_id>f06840c5db35a1503050ac44d4961923</instance_id>
+        <instance_name>dev167807</instance_name>
+        <name>sn_ihub_integration_instance_ee8ea4f3471721108a7cad8b136d43ed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance"><sn_ihub_integration_instance action="INSERT_OR_UPDATE"><description>Import To Do items from xls</description><integration_table>sys_data_source</integration_table><integration_type>data_import</integration_type><internal_name/><name>ToDoImport</name><record_id>a28ea4f3471721108a7cad8b136d43ef</record_id><sys_class_name>sn_ihub_integration_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-14 20:29:58</sys_created_on><sys_id>ee8ea4f3471721108a7cad8b136d43ed</sys_id><sys_mod_count>1</sys_mod_count><sys_name>ToDoImport</sys_name><sys_package display_value="To Do" source="x_1050762_to_do">d4a020f747d321108a7cad8b136d43f3</sys_package><sys_policy/><sys_scope display_value="To Do">d4a020f747d321108a7cad8b136d43f3</sys_scope><sys_update_name>sn_ihub_integration_instance_ee8ea4f3471721108a7cad8b136d43ed</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-14 20:29:59</sys_updated_on></sn_ihub_integration_instance></record_update>]]></payload>
+        <payload_hash>605126851</payload_hash>
+        <record_name>ToDoImport</record_name>
+        <reverted_from/>
+        <source>5ca020f747d321108a7cad8b136d43f5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-14 20:29:59</sys_created_on>
+        <sys_id>ea8ea4f3471721108a7cad8b136d43f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>188bb99cde30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-14 20:29:59</sys_updated_on>
+        <type>Data import</type>
+        <update_guid>268ea4f39a172110379eb87b58c807f7</update_guid>
+        <update_guid_history>268ea4f39a172110379eb87b58c807f7:605126851</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="ToDoImport">88ef6c37471721108a7cad8b136d4355</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-14 20:35:49</sys_created_on>
+        <sys_db_object display_value="" name="sn_ihub_integration_instance">sn_ihub_integration_instance</sys_db_object>
+        <sys_id>eab60c9d520040929b41d30ef4b99124</sys_id>
+        <sys_metadata>ee8ea4f3471721108a7cad8b136d43ed</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ToDoImport</sys_name>
+        <sys_package display_value="To Do" source="x_1050762_to_do">d4a020f747d321108a7cad8b136d43f3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="To Do">d4a020f747d321108a7cad8b136d43f3</sys_scope>
+        <sys_scope_delete display_value="">0a12584974eb442884f77a4a3413ae40</sys_scope_delete>
+        <sys_update_name>sn_ihub_integration_instance_ee8ea4f3471721108a7cad8b136d43ed</sys_update_name>
+        <sys_update_version display_value="sn_ihub_integration_instance_ee8ea4f3471721108a7cad8b136d43ed">ea8ea4f3471721108a7cad8b136d43f7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-14 20:35:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

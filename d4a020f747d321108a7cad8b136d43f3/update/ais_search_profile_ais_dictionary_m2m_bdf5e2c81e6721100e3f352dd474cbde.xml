@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="default_synonym_dictionary">b29df374c7531010d1cfd9795cc260cd</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="To Do Workspace search profile">b5f5e2c838672110de52cdece7fc54e1</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-15 23:50:17</sys_created_on>
+        <sys_id>bdf5e2c81e6721100e3f352dd474cbde</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>default_synonym_dictionary.To Do Workspace search profile</sys_name>
+        <sys_package display_value="To Do" source="x_1050762_to_do">d4a020f747d321108a7cad8b136d43f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">d4a020f747d321108a7cad8b136d43f3</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_bdf5e2c81e6721100e3f352dd474cbde</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-15 23:50:17</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

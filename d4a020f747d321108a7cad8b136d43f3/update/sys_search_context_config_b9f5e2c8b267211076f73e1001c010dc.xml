@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_context_config">
+    <sys_search_context_config action="INSERT_OR_UPDATE">
+        <evam_definition display_value="">f78b729b53d801109fa9ddeeff7b1201</evam_definition>
+        <genius_results_limit>1</genius_results_limit>
+        <hit_highlighting>false</hit_highlighting>
+        <name>To Do Workspace AI Search Configuration</name>
+        <search_engine>ai_search</search_engine>
+        <search_profile display_value="To Do Workspace search profile">b5f5e2c838672110de52cdece7fc54e1</search_profile>
+        <search_results_limit>10</search_results_limit>
+        <spell_check>true</spell_check>
+        <suggestions_to_show_limit>10</suggestions_to_show_limit>
+        <sys_class_name>sys_search_context_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-15 23:50:17</sys_created_on>
+        <sys_id>b9f5e2c8b267211076f73e1001c010dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>To Do Workspace AI Search Configuration</sys_name>
+        <sys_package display_value="To Do" source="x_1050762_to_do">d4a020f747d321108a7cad8b136d43f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">d4a020f747d321108a7cad8b136d43f3</sys_scope>
+        <sys_update_name>sys_search_context_config_b9f5e2c8b267211076f73e1001c010dc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-15 23:50:17</sys_updated_on>
+        <ts_index_group/>
+        <view/>
+    </sys_search_context_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=b9f5e2c8b267211076f73e1001c010dc"/>
+</record_update>

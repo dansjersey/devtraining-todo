@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_ribbon_config">
+    <sys_ux_ribbon_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>To Do Workspace Ribbon Config</description>
+        <name>To Do Workspace Ribbon Config</name>
+        <sys_class_name>sys_ux_ribbon_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-15 23:50:17</sys_created_on>
+        <sys_id>b9f5e2c83467211053f23aac3f7497da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>To Do Workspace Ribbon Config</sys_name>
+        <sys_package display_value="To Do" source="x_1050762_to_do">d4a020f747d321108a7cad8b136d43f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">d4a020f747d321108a7cad8b136d43f3</sys_scope>
+        <sys_update_name>sys_ux_ribbon_config_b9f5e2c83467211053f23aac3f7497da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-15 23:50:17</sys_updated_on>
+    </sys_ux_ribbon_config>
+</record_update>
